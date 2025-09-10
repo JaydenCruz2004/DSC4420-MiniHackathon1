@@ -1,9 +1,9 @@
 # CNN Hyperparameter Sweeps with Weights & Biases
 
 ## 👥 Team
-- **Simeon Betapudi**, **Jayden Cruz**, **Evan Dant**
-- **Jayden**  
-- **Evan**  
+- **Simeon Betapudi**
+- **Jayden Cruz**  
+- **Evan Dant**  
 
 This project explores the use of **Weights & Biases (W&B) sweeps** to optimize hyperparameters in a Convolutional Neural Network (CNN) trained on the **CIFAR-10 dataset**.  
 Instead of manually tuning hyperparameters, we automated the process to find the most efficient configuration that achieves **at least 75% accuracy** within limited training (5 epochs).  
